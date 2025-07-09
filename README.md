@@ -41,6 +41,9 @@ A sleek and responsive Weather App built using **Flutter** and **OpenWeatherMap 
 - cd flutter-weather-app
 - flutter pub get
 
+### Disclaimer
+- If you dont add your API key, the app would crash
+
 ### Add your OpenWeatherMap API Key
 * Inside 'secrets.dart' file add your key:
     - const apiKey = "YOUR_API_KEY_HERE";
