@@ -41,7 +41,7 @@ A sleek and responsive Weather App built using **Flutter** and **OpenWeatherMap 
 - cd flutter-weather-app
 - flutter pub get
 
-### Disclaimer
+### ⚠️ Disclaimer
 - If you dont add your API key, the app would crash
 
 ### Add your OpenWeatherMap API Key
